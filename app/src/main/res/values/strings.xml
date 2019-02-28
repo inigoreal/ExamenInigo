@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppExamenIñigoReal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textFecha">Fecha:</string>
+
+    <string name="textComensales">Comensales:</string>
+
+    <string name="textNombre">Nombre:</string>
+
+    <string name="textTelef">Telefono:</string>
+
+    <string name="textComentarios">Comentarios:</string>
+</resources>
